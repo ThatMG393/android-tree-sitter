@@ -31,3 +31,6 @@
 [submodule "grammars/cpp"]
 	path = grammars/cpp
 	url = https://github.com/tree-sitter/tree-sitter-cpp
+[submodule "lua"]
+	path = grammars/lua
+	url = https://github.com/ThatMG393/tree-sitter-lua.git

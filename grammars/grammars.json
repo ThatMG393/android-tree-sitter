@@ -44,5 +44,11 @@
   {
     "name": "xml",
     "src.extra": []
+  },
+  {
+	"name": "lua",
+	"src.extra": [
+	  "src/scanner.c"
+	]
   }
 ]
